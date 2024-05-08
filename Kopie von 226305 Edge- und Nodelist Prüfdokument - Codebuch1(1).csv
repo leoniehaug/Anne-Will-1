@@ -1,0 +1,7 @@
+id,name,party,sector,country,type,relationship
+Abkürzung des Namens,Name der Person,Zugehörige Partei,1 = Politik,Herkunft der Person,1 = Person,1 = selbe Partei
+,,,2 = Journalismus,,2 = Folge,2 = selbe Folge
+,,,3 = Wissenschaft,,3 = Partei,
+,,,4 = Recht,,,
+,,,5 = Militär,,,
+,,,6 = Sicherheit,,,

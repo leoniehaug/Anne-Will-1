@@ -1,0 +1,37 @@
+id,mitglieder,sector,country,type
+ul,Ursula von der Leyen,1,Deutschland,1
+lk,Lars Klingbeil,1,Deutschland,1
+nr,Norbert Röttgen,1,Deutschland,1
+sw,Sarah Wagenknecht,1,Deutschland,1
+cr,Constanze Stelzenmüller,4,Deutschland,1
+cl,Christian Lindner,1,Deutschland,1
+ks,Karl Schlägel,3,Osteuropa,1
+lm,Ljudmyla Melnyk,3,Ukraike,1
+kd,Kristina Dunz,2,Deutschand,1
+el,Eglis Levits,1,Lettland,1
+ab,Annalena Baerbock,1,Deutschland,1
+ft,Frans Timmermans,1,Deutschlad,1
+am,Andrij Melnyk,1,Ukraine,1
+agl,Alexander Graf Lambsdorff,1,Deutschland,1
+er,Egon Ramms,5,Deutschland,1
+rh,Robert Habeck,1,Deutschland,1
+cm,Claudia Maior,1,Deutschland,1
+kp,Katja Petrowskaja,3,Ukraine,1
+rk,Roderich Kiesewetter,1,Deutschland,1
+cl,Christine Lambrecht,1,Deutschland,1
+sb,Stefanie Babst,1,Deutschland,1
+ch,Christoph Heusgen,6,Deutschland,1
+mw,Marina Weisband,2,Ukraine,1
+os,Olaf Scholz,1,Deutschland,1
+zero,500,0,NA,2
+eins,501,0,NA,2
+zwei,502,0,NA,2
+drei,503,0,NA,2
+vier,504,0,NA,2
+fuenf,505,0,NA,2
+cdu,CDU,0,NA,3
+grünen,Die Grünen,0,NA,3
+linke,Die Linke,0,NA,3
+fdp,FDP,0,NA,3
+swp,SWP,0,NA,3
+spd,SPD,0,NA,3
